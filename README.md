@@ -1,4 +1,4 @@
-<img class="slide-img" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.znetlive.com%2Fblog%2Fwp-content%2Fuploads%2F2016%2F06%2Fvirtual-cloud.jpg&f=1&nofb=1" />
+<img class="slide-img" src="https://user.oc-static.com/upload/2021/11/10/1636542639252_Moby-logo.png" />
 
 ## Containers
 
